@@ -1,5 +1,6 @@
 
-#I'm Vinicus Matias
+# I'm Vinicus Matias
+________________________________________________________________
        <a href="https://www.linkedin.com/in/vinicius-matias-de-lima-79b577197/">
         <img  height="40" width="40"  src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo-by-vexels.png" alt="vinicius-linkedin">
     </a>
@@ -12,11 +13,11 @@
 
 __________________________________________________________
 
-- 🔭 I am currently working on open source projects.
+* 🔭 I am currently working on open source projects.
 
-- 🌱 I am currently learning Spring all its ecosystem.
+* 🌱 I am currently learning Spring all its ecosystem.
 
-- 👯 I'm looking to collaborate on projects in the backend using java.
+* 👯 I'm looking to collaborate on projects in the backend using java.
 
 Social networks to communicate with me.
 
