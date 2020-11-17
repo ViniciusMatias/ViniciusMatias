@@ -20,4 +20,7 @@
     <a href="https://www.facebook.com/vinicius.lima.7509/">
         <img  height="40" width="40"  src="https://images.tcdn.com.br/782077/themes/11/img/face.png?759.1472452282329" alt="vinicius-Facebook">
     </a>
+__________________
+### Minhas Skills:
 
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
