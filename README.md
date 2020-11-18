@@ -33,6 +33,8 @@
 ## My Skills:
 
 <br>
+
+<div>
 <img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="vinicius-Instagram"/>
 <img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="vinicius-Instagram"/>
 <img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="vinicius-Instagram"/>
@@ -45,4 +47,4 @@
 <img height="40" width="40"  src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" alt="vinicius-Instagram"/>
 <img height="40" width="40"  src="https://www.fluttericon.com/logo_dart_192px.svg" alt="vinicius-Instagram"/>
 <img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="vinicius-Instagram"/>
-
+</div>
