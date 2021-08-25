@@ -32,19 +32,11 @@
 
 ## My Skills:
 
-<br>
+* Java
+* Docker
+* C#
+* Mysql
+* PostgreSQL
+* Spring
+* Linux
 
-<div>
-<img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/android/android-original.svg" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://www.fluttericon.com/logo_dart_192px.svg" alt="vinicius-Instagram"/>
-<img height="40" width="40"  src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="vinicius-Instagram"/>
-</div>
