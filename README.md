@@ -1,16 +1,16 @@
 
-# I'm Vinicus Matias   
+# Olá me chamo Vinicus Matias   
 [![](https://github-readme-stats.vercel.app/api?username=ViniciusMatias&theme=radical&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 
-* 🔭 I am currently working on open source projects.
+* 🔭 Atualmente estou trabalhando em projetos de código aberto.
 
-* 🌱 I am currently learning Spring all its ecosystem.
+* 🌱 Atualmente, estou aprendendo React, Spring e todo o seu ecossistema.
 
-* 👯 I'm looking to collaborate on projects in the backend using java.
+
 <br>
 <br>
 <br>
