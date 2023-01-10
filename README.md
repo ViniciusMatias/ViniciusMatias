@@ -1,5 +1,5 @@
 
-# Olaaá me chamo Vinicus Matias   
+# Olaaá me chamo Vinicius Matias   
 [![](https://github-readme-stats.vercel.app/api?username=ViniciusMatias&theme=radical&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 
